@@ -1,0 +1,21 @@
+[submodule "COCL-App"]
+	path = COCL-App
+	url = https://github.com/jhparkland/COCL-App
+[submodule "COCL-Admin"]
+	path = COCL-Admin
+	url = https://github.com/jhparkland/COCL-Admin
+[submodule "COCL-PM"]
+	path = COCL-PM
+	url = https://github.com/jhparkland/COCL-PM
+[submodule "COCL-PVwatts"]
+	path = COCL-PVwatts
+	url = https://github.com/jhparkland/COCL-PVwatts
+[submodule "BayesCOCL"]
+	path = BayesCOCL
+	url = https://github.com/jhparkland/BayesCOCL.git
+[submodule "Carbon-friendly"]
+	path = Carbon-friendly
+	url = https://github.com/jhparkland/Carbon-friendly.git
+[submodule "COCL-Sehduling-Processes"]
+	path = COCL-Sehduling-Processes
+	url = https://github.com/jhparkland/COCL-Scheduling-Processes.git
