@@ -14,7 +14,7 @@
 
 ## 최적화 모듈 (Optimization Module)
 - COCL Scheduling Processes : (생산-소비)pygenetic를 이용한수업 스케쥴링모듈 개발
-- BayesCOCL : 베이지안 네트워크와 COCL 결합<br/><br/><br/>
+- BayesCOCL : 베이지안 네트워크와 COCL 결합<br/><br/><br/> 
 
 
 ## 모니터링 대시보드 (Monitoring Dashboard)
@@ -24,6 +24,7 @@
 ```*예시(출처: https://www.finereport.com/kr/%EC%8B%9C%EA%B0%81%ED%99%94-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/)```
 <br/><br/><br/>
    
+
  
 
 
