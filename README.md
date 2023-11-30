@@ -13,7 +13,7 @@
 
 
 ## 최적화 모듈 (Optimization Module)
-- COCL Scheduling Processes : (생산-소비)pygenetic를 이용한수업 스케쥴링모듈 개발
+- COCL Scheduling Processes : (생산-소비)pygenetic를 이용한 수업 스케쥴링모듈 개발
 - BayesCOCL : 베이지안 네트워크와 COCL 결합<br/><br/><br/> 
 
 
