@@ -29,14 +29,17 @@
 - AI4Carbon-labels: 사용자의 AI 모델의 탄소발자국을 평가하기 위한 인증 스티커 개발하고 인공지능 모델을 학습 및 제공하는 서버에 부착하여 저탄소 AI 모델을 만들기 위한 기준을 제시합니다.
 
 
-  
+## Contributors
 
- 
+- COCL-APP Lead: Prcnsi
+- COCL-PVwatts Lead: yeryeong713, yewon0325
+- COCL-PM Lead: cpprhtn
+- BayesCOCL Lead: qor6
+- COCL-Scheduling Lead: H-S-J
 
-
-
-
-
+<a href="https://github.com/datascience-labs/COCL/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datascience-labs/COCL" />
+</a>
 
 
   
