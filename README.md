@@ -1,4 +1,5 @@
 # COCL (Carbon Optimized Course Load)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Python&logoColor=white">
 
 - **프로젝트명**: 탄소 발자국의 실시간 추적을 통해 캠퍼스 강의 스케줄의 Net-Zero 고도화
 - **목표**: 대학 캠퍼스에서 각 강의실과 개별 PC에서 발생하는 전력 소모량(탄소 발자국)을 측정하고, 대학에서 생산 가능한 태양광 에너지 발전량(전력 생산량)을 예측한다. 이를 탄소중립 캠퍼스(Net-Zero) 구축을 위해 현실 가능성을 검토하고 현재 상황을 데이터로 시각화하여 모니터링 대시보드를 제공합니다. 
@@ -7,10 +8,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Python&logoColor=white">
 
 
-## 캠퍼스의 탄소발자국 측정
-- COCL PM : 딥러닝을 사용하는 개별 PC와 강의실별 전력 소모량에 따른 탄소배출량 측정 (백엔드 연동 API 코드)
+## 캠퍼스의 탄소발자국 측정    
+- COCL PM : 딥러닝을 사용하는 개별 PC와 강의실별 전력 소모량에 따른 탄소 배출량 측정 (백엔드 연동 API 코드)
 - COCL PVwatts : 대학교 캠퍼스의 가상발전소(VPP, Virtual Power Plant)의 태양광 발전량(전기 생산량) 예측.<br/><br/><br/>
-
 
 ## 최적화 모듈 (Optimization Module)
 - COCL Scheduling Processes : (생산-소비)pygenetic를 이용한 수업 스케쥴링 모듈을 개발
