@@ -31,11 +31,11 @@
 
 ## Contributors
 
-- COCL-APP Lead: Prcnsi
-- COCL-PVwatts Lead: yeryeong713, yewon0325
-- COCL-PM Lead: cpprhtn
-- BayesCOCL Lead: qor6
-- COCL-Scheduling Lead: H-S-J
+- COCL-APP Lead: [Prcnsi](https://github.com/Prcnsi)
+- COCL-PVwatts Lead: [yeryeong713](https://github.com/yeryeong713), [yewon0325](https://github.com/yewon0325)
+- COCL-PM Lead: [cpprhtn](https://github.com/cpprhtn)
+- BayesCOCL Lead: [qor6](https://github.com/qor6)
+- COCL-Scheduling Lead: [H-S-J](https://github.com/H-S-J)
 
 <a href="https://github.com/datascience-labs/COCL/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=datascience-labs/COCL" />
