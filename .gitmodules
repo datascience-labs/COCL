@@ -1,0 +1,24 @@
+[submodule "COCL-App"]
+	path = COCL-App
+	url = https://github.com/jhparkland/COCL-App
+	branch = main
+[submodule "COCL-PM"]
+	path = COCL-PM
+	url = https://github.com/jhparkland/COCL-PM
+	branch = main
+[submodule "COCL-Admin"]
+	path = COCL-Admin
+	url = https://github.com/jhparkland/COCL-Admin
+	branch = main
+[submodule "COCL-Scheduling-Processes"]
+	path = COCL-Scheduling-Processes
+	url = https://github.com/jhparkland/COCL-Scheduling-Processes
+	branch = main
+[submodule "BayesCOCL"]
+	path = BayesCOCL
+	url = https://github.com/jhparkland/BayesCOCL
+	branch = main
+[submodule "COCL-PVwatts"]
+	path = COCL-PVwatts
+	url = https://github.com/jhparkland/COCL-PVwatts
+	branch = main
