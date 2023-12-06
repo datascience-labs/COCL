@@ -9,8 +9,6 @@
 - COCL App : Dash framework기반 Dashboard 구축 완료
 ![image](https://github.com/Prcnsi/COCL/assets/86015194/342a68ca-80d1-4e0d-84de-474df94b8946)
 <br/>
-<br/><br/><br/> 
-
 
 ## 캠퍼스의 탄소발자국 측정    
 - COCL PM : 딥러닝을 사용하는 개별 PC와 강의실별 전력 소모량에 따른 탄소 배출량 측정 (백엔드 연동 API 코드)
@@ -22,7 +20,6 @@
 
 ## 딥러닝모델의 탄소발자국 인증 (AI for Carbon)
 - AI4Carbon-labels: 사용자의 AI 모델의 탄소발자국을 평가하기 위한 인증 스티커 개발하고 인공지능 모델을 학습 및 제공하는 서버에 부착하여 저탄소 AI 모델을 만들기 위한 기준을 제시합니다.
-
 
 ## Contributors
 
