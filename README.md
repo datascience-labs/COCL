@@ -14,7 +14,7 @@
 - COCL PM : 딥러닝을 사용하는 개별 PC와 강의실별 전력 소모량에 따른 탄소 배출량 측정 (백엔드 연동 API 코드)
 - COCL PVwatts : 대학교 캠퍼스의 가상발전소(VPP, Virtual Power Plant)의 태양광 발전량(전기 생산량) 예측.<br/><br/><br/>
 
-## 최적화 모듈 (Optimization Module)
+## 최적화 모듈 (Optimization Module) 
 - COCL Scheduling Processes : (생산-소비)pygenetic를 이용한 수업 스케쥴링 모듈을 개발
 - BayesCOCL : 베이지안 네트워크와 COCL 결합<br/><br/><br/>
 
