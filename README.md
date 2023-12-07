@@ -7,7 +7,8 @@
 
 ## 모니터링 대시보드 (Monitoring Dashboard)
 - COCL App : Dash framework기반 Dashboard 구축 완료
-![image](https://github.com/Prcnsi/COCL/assets/86015194/342a68ca-80d1-4e0d-84de-474df94b8946)
+![image](https://github.com/Prcnsi/COCL/assets/86015194/eb9b46d1-1219-4536-8971-3e452e2f6d7d)
+
 <br/>
 <br/><br/><br/> 
 
