@@ -7,22 +7,20 @@
 
 ## 모니터링 대시보드 (Monitoring Dashboard)
 - COCL App : Dash framework기반 Dashboard 구축 완료
-![image](https://github.com/Prcnsi/COCL/assets/86015194/342a68ca-80d1-4e0d-84de-474df94b8946)
-<br/>
-<br/><br/><br/> 
+![image](https://github.com/Prcnsi/COCL/assets/86015194/eb9b46d1-1219-4536-8971-3e452e2f6d7d)
 
+<br/>
 
 ## 캠퍼스의 탄소발자국 측정    
 - COCL PM : 딥러닝을 사용하는 개별 PC와 강의실별 전력 소모량에 따른 탄소 배출량 측정 (백엔드 연동 API 코드)
 - COCL PVwatts : 대학교 캠퍼스의 가상발전소(VPP, Virtual Power Plant)의 태양광 발전량(전기 생산량) 예측.<br/><br/><br/>
 
-## 최적화 모듈 (Optimization Module)
+## 최적화 모듈 (Optimization Module) 
 - COCL Scheduling Processes : (생산-소비)pygenetic를 이용한 수업 스케쥴링 모듈을 개발
 - BayesCOCL : 베이지안 네트워크와 COCL 결합<br/><br/><br/>
 
 ## 딥러닝모델의 탄소발자국 인증 (AI for Carbon)
 - AI4Carbon-labels: 사용자의 AI 모델의 탄소발자국을 평가하기 위한 인증 스티커 개발하고 인공지능 모델을 학습 및 제공하는 서버에 부착하여 저탄소 AI 모델을 만들기 위한 기준을 제시합니다.
-
 
 ## Contributors
 
@@ -31,6 +29,7 @@
 - COCL-PM Lead: [cpprhtn](https://github.com/cpprhtn)
 - BayesCOCL Lead: [qor6](https://github.com/qor6)
 - COCL-Scheduling Lead: [H-S-J](https://github.com/H-S-J)
+
 
 <a href="https://github.com/datascience-labs/COCL/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=datascience-labs/COCL" />
@@ -52,3 +51,4 @@
 
 
  
+
