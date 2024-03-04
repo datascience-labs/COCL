@@ -1,3 +1,11 @@
+---
+layout: project
+title: COCL/Demo video
+project: COCL
+repo: datascience-labs/COCL
+permalink: /:path/:basename:output_ext
+---
+
 ### 시연영상
 
 * 사용 프로그램: Wondershare Filmora

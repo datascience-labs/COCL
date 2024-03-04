@@ -1,3 +1,11 @@
+---
+layout: project
+title: COCL/AI4Carbon-labels/discuss
+project: COCL
+repo: datascience-labs/COCL
+permalink: /:path/:basename:output_ext
+---
+
 
 # Carbon Footprint Label의 목적
 - 시간에 따라 전력량이 변화하는 제품을 주 목적을 타겟으로 한다.

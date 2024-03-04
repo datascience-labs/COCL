@@ -1,3 +1,11 @@
+---
+layout: project
+title: COCL/
+project: COCL
+repo: datascience-labs/COCL
+permalink: /:path/:basename:output_ext
+---
+
 # COCL (Carbon Optimized Course Load)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=Python&logoColor=white">
 

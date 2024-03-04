@@ -1,3 +1,11 @@
+---
+layout: project
+title: COCL/background
+project: COCL
+repo: datascience-labs/COCL
+permalink: /:path/:basename:output_ext
+---
+
 ## Background of COCL
 AI 산업의 규모은 매년 약 40%씩 급격하게 증가하여, '25년 180억 달러의 시장규모를 달성할 것으로 전망한다. 이에 따라, AI 산업에서 사용되는 전력 소비량 및 탄소 배출량 또한, 매우 급격히 증가하는 추세이다. 초거대 AI 모델 Bing AI의 경우 서비스 모델을 만들기 위해 7200MWh의 전력을 소비했을 것으로 추정된다. 이는 2200만 가구의 6개월 전력 사용량과 유사한 수치이다. 전문가들은 AI 산업에서 발생하는 과도한 전력소비를 줄일 방안을 시급히 모색해야 한다고 주장하였다.
 

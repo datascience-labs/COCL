@@ -1,3 +1,11 @@
+---
+layout: project
+title: COCL/background information and purpose
+project: COCL
+repo: datascience-labs/COCL
+permalink: /:path/:basename:output_ext
+---
+
 ## "탄소배출 이제 속일 수 없다"
 
 챗GPT(Chat GPT)의 등장은 혁신적이었으나, 딥러닝 인공지능 기술이 전력 사용량을 증가시켜 이산화탄소 배출량에 영향을 준다.
