@@ -22,9 +22,5 @@
 	path = COCL-PVwatts
 	url = https://github.com/jhparkland/COCL-PVwatts
 	branch = main
-[submodule "carbon-friendly"]
-    path = carbon-friendly
-    url = https://github.com/datascience-labs/Carbon-friendly.git
-	branch = main
 
 
